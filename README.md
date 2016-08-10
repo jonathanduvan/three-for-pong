@@ -1,5 +1,7 @@
 # Three for Pong
 
+3fp is a platform that allows students to find pong games anonymously. By connecting students, we will reduce pong wait times and foster potential friendships.
+
 TODO: short project description, some sample screenshots or mockups
 
 ## Architecture
