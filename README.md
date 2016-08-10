@@ -2,6 +2,10 @@
 
 3fp is a platform that allows students to find pong games anonymously. By connecting students, we will reduce pong wait times and foster potential friendships.
 
+![](./images/home-page-find-match.png)
+
+![](./images/home-page-finding-match.png)
+
 TODO: short project description, some sample screenshots or mockups
 
 ## Architecture
