@@ -1,4 +1,4 @@
-# three-for-pong
+# Three for Pong
 
 TODO: short project description, some sample screenshots or mockups
 
